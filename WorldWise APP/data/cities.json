@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "cityName": "Hyderabad",
+      "country": "India",
+      "emoji": "IN",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 17.407881642324163,
+        "lng": 78.42090009990756
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "bdad",
+      "cityName": "Jaggayyapeta",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-03-17T10:28:56.256Z",
+      "notes": "",
+      "position": {
+        "lat": "16.846604364964275",
+        "lng": "80.17165078540033"
+      }
+    },
+    {
+      "id": "225b",
+      "cityName": "Noguera de Albarracin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-17T16:43:38.114Z",
+      "notes": "",
+      "position": {
+        "lat": "40.46366583162247",
+        "lng": "-1.6242058509851656"
+      }
+    }
+  ]
+}
